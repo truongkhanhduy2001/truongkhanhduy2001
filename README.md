@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/truongkhanhduy.svg" width="1200" alt="truongkhanhduy" />
+  <img src="SVG/truongkhanhduy.svg" width="1200" alt="truongkhanhduy" />
 </a>
 
 <br>
