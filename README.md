@@ -1,3 +1,4 @@
+<!-- truongkhanhduy -->
 <a href="#" target="_blank">
   <img src="SVG/truongkhanhduy.svg" width="1200" alt="truongkhanhduy" />
 </a>
@@ -72,3 +73,105 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/jQuery-2e3440?logo=jQuery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
 &nbsp;
+
+<br>
+<h3 align="center">
+<img src="images/kyubey.gif" width="40" align="left"/>
+<img src="images/fire_1f525.gif" width="20"/>
+<b>GitHub Stats</b>
+<img src="images/fire_1f525.gif" width="20"/>
+<img src="images/horse.gif" width="20" align="right"/>
+</h3>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<hr></hr>
+<b>⚡ truongkhanhduy's Stats</b>
+<br>
+<br>
+<p  dir="auto">
+  <a href="#" title="truongkhanhduy">
+    <img     width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=truongkhanhduy2001&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440"/>
+  </a>
+  <a href="#" title="truongkhanhduy">
+    <img width="49.5%" src="https://streak-stats.demolab.com/?user=truongkhanhduy2001&theme=nord&hide_border=true&ring=e17b5f&fire=e17b5f&currStreakNum=8adeff&sideNums=8adeff&type=svg&sideLabels=8adeff&currStreakLabel=8adeff&dates=white"/>
+  </a>
+</p>
+<!-- https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=20228100 -->
+<br>
+<b>⚡  Top Languages</b>
+<br>
+<br>
+<div  align="center">
+  <a href="#" title="truongkhanhduy">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongkhanhduy2001&layout=compact&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=2e3440&langs_count=14"/>
+  </a>
+</div>
+
+<div align="center" dir="auto">
+  <a href="#" title="truongkhanhduy">
+    <img   alt="GIF" width="500" src="images/spotify.gif" />
+  </a>
+</div>
+
+<div align="center" dir="auto">
+  <a href="https://open.spotify.com/user/316nnomkf237lhpllzp22r5bpaxu" title="truongkhanhduy">
+    <!-- <img  alt="Spotify"  src="https://spotify-recently-played-readme.vercel.app/api?user=316nnomkf237lhpllzp22r5bpaxu&width=550&count=4" /> -->
+   <img  alt="Spotify"  src="https://spotify-github-profile.vercel.app/api/view?uid=316nnomkf237lhpllzp22r5bpaxu&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true&&show_offline=true" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="center">
+<img src="images/cat2.gif" width="26" align="left"/>
+<img src="images/cat.gif" width="20"/>
+<b>Contact With Me </b>
+<img src="images/cat.gif" width="20"/>
+<img src="images/bear.gif" width="26" align="right"/>
+</h3>
+
+<hr></hr>
+
+<div align="center">
+  <a href="https://www.facebook.com/khanhduy.truong.1848/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Trương Khánh Duy-facebook" />
+  </a>
+  <!-- <a href="https://www.linkedin.com/in/minh-quang-luong-854774239/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="Lương Minh Quang-linkedin" />
+  </a> -->
+  <!-- <a href="https://www.pinterest.com/minhquangnthqdev/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/pinterest.png" alt="Lương Minh Quang-instagram" />
+  </a> -->
+  <!-- <a href="https://www.instagram.com/minhquang.luong.526/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Lương Minh Quang-instagram" />
+  </a> -->
+  <a href="mailto:truongkhanhduy.data@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Trương Khánh Duy-email" />
+  </a>
+</div>
+
+<h3 align="center">
+<img src="images/book.gif" width="20" align="center"/>
+<b>Quotes</b>
+<img src="images/book.gif" width="20" align="center"/>
+</h3>
+
+<hr></hr>
+
+<div  align="center">
+    <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Lương Minh Quang - Quotes" />
+</div>
+
+<h3 align="center">
+<b>
+Watch A 
+<img src="images/snake1.gif" width="26" align="center"/>
+Eating</b>
+</h3>
+
+<hr></hr>
+
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/truongkhanhduy2001/truongkhanhduy2001/raw/output/github-contribution-grid-snake.svg">
+    <img src="https://github.com/truongkhanhduy2001/truongkhanhduy2001/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+    </a>
+</p>
